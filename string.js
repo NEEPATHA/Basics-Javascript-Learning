@@ -10,9 +10,7 @@ console.log(str3);
 console.log(str4);
 
 
-// Templete literal
-let output = `the cost of ${obj.iem} is ${obj.price} rupee`
-console.log(output);
+
 
 // escape character
 let str = "Neelesh\tPathak";
